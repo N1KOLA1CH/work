@@ -1,12 +1,12 @@
 {
-    "Marketing": {
-        "budget": 5000,
-        "experience": 4,
-        "specialization": "SEO"
-    },
-    "R&D": {
-        "budget": 15000,
-        "experience": 10,
-        "specialization": "Backend"
-    }
+  "Sales": {
+    "specialization": "Wholesale",
+    "budget": 4000,
+    "experience": 6
+  },
+  "Finance": {
+    "specialization": "Tax",
+    "budget": 14000,
+    "experience": 12
+  }
 }
