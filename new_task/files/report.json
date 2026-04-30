@@ -1,0 +1,12 @@
+{
+  "Sales": {
+    "specialization": "Wholesale",
+    "budget": 4000,
+    "experience": 6
+  },
+  "Finance": {
+    "specialization": "Tax",
+    "budget": 14000,
+    "experience": 12
+  }
+}
